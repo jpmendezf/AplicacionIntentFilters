@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionIntentFilters</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mi_browser_activitty">Mi Browser Activitty</string>
+</resources>
